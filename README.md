@@ -26,8 +26,6 @@ yarn init  --> npm init  好用
 yarn add electron --dev electron-->npm install --save-dev electron
 
 yarn upgrade-interactive --latest
-####webpack
-
 ```
 
 

@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "MY IDE",
   "main": "dist/main.js",
+  "private": true,
   "scripts": {
     "start": "electron .",
     "lint": "eslint --ext .js,.vue src",
